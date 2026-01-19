@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Abstracts\Services\" />
+    <Folder Include="Abstracts\Repositories\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Shared\Helpers\" />
+    <Folder Include="Shared\Settings\" />
+    <Folder Include="Validations\" />
+  </ItemGroup>
+
 </Project>
