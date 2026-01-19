@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionSQLAdoNet", "ConnectionSQLAdoNet\ConnectionSQLAdoNet.csproj", "{EAE8DBC2-8064-4AD5-ACFB-98CE7E21B5CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesTing Sistem", "TesTing Sistem\TesTing Sistem.csproj", "{30575DF9-7487-450C-B9D4-F139BEBCE5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE8DBC2-8064-4AD5-ACFB-98CE7E21B5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE8DBC2-8064-4AD5-ACFB-98CE7E21B5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE8DBC2-8064-4AD5-ACFB-98CE7E21B5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE8DBC2-8064-4AD5-ACFB-98CE7E21B5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30575DF9-7487-450C-B9D4-F139BEBCE5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30575DF9-7487-450C-B9D4-F139BEBCE5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30575DF9-7487-450C-B9D4-F139BEBCE5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30575DF9-7487-450C-B9D4-F139BEBCE5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F85E24EF-3526-4B97-A28D-D41DA438CB5B}
+	EndGlobalSection
+EndGlobal
